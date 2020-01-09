@@ -12,4 +12,4 @@ sqlite> select country_code, country_name, continent_code, continent_name from s
 ZA|South Africa|AF|Africa
 ```
 
-Same queries work for IPv4 and IPv6
+Same queries work for IPv4 and IPv6 in binary form
