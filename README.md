@@ -3,9 +3,6 @@ IPGeo
 
 Daily updated free database of subnet-country pairs usable in various purposes. It is open, lightweight and less accurate alternative to Maxmind's GeoLite (without latitude and longitude).
 
-- all country/continents codes are presented in ISO 3166-1 alpha-2
-- entries are in CIDR notation
-
 ## ipgeo-country.mmdb
 - drop-in replacement for GeoLite2-Country
 - names in English included only
@@ -28,3 +25,5 @@ Daily updated free database of subnet-country pairs usable in various purposes. 
 
 ## *.csv
 - comma delimited csv export
+- all country/continents codes are presented in ISO 3166-1 alpha-2
+- entries are in CIDR notation
