@@ -904,7 +904,6 @@ AF,KE,2c0f:fc80::/32
 AF,EG,2c0f:fc88::/31
 AF,NG,2c0f:fc90::/32
 AF,NG,2c0f:fc98::/32
-AF,GH,2c0f:fca0::/32
 AF,GH,2c0f:fca8::/32
 AF,ZA,2c0f:fcb0::/32
 AF,GM,2c0f:fcb8::/32
@@ -30344,6 +30343,11 @@ SA,BR,2804:7aac::/32
 SA,BR,2804:7ab0::/32
 SA,BR,2804:7ab4::/32
 SA,BR,2804:7ab8::/32
+SA,BR,2804:7abc::/32
+SA,BR,2804:7ac0::/32
+SA,BR,2804:7ac4::/32
+SA,BR,2804:7ac8::/32
+SA,BR,2804:7acc::/32
 NA,MX,2806::/28
 NA,MX,2806:200::/32
 NA,MX,2806:202::/32
