@@ -2727,8 +2727,11 @@ AS,BD,2001:df0:ca40::/48
 AS,BD,2001:df0:ca80::/48
 AS,BD,2001:df0:cac0::/48
 OC,NZ,2001:df0:cb00::/48
+AS,IN,2001:df0:cb40::/48
 AS,IN,2001:df0:cb80::/48
+OC,AU,2001:df0:cbc0::/48
 AS,ID,2001:df0:cc00::/48
+AS,BD,2001:df0:cc40::/48
 AS,HK,2001:df0:cc80::/48
 OC,AU,2001:df0:cd80::/48
 AS,ID,2001:df0:ce00::/48
