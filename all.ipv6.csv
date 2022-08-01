@@ -416,6 +416,7 @@ AF,ZA,2c0f:2900::/32
 AF,NG,2c0f:2a80::/32
 AF,GH,2c0f:2b00::/32
 AF,ZA,2c0f:2c00::/32
+AF,KE,2c0f:2c80::/32
 AF,ZA,2c0f:2d00::/32
 AF,KE,2c0f:2e00::/32
 AF,KE,2c0f:2f00::/32
