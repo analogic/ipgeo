@@ -522,6 +522,7 @@ AF,ZA,2c0f:5980::/32
 AF,ZA,2c0f:5a00::/32
 AF,TD,2c0f:5a80::/32
 AF,ZA,2c0f:5b00::/32
+AF,GN,2c0f:5b80::/32
 AF,TZ,2c0f:5c00::/32
 AF,GA,2c0f:5c80::/32
 AF,ZA,2c0f:5d00::/32
