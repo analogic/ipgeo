@@ -5943,7 +5943,9 @@ AS,MY,2001:df3:ec80::/48
 AS,IN,2001:df3:ecc0::/48
 NA,US,2001:df3:ed40::/48
 AS,CN,2001:df3:ed80::/48
+AS,VN,2001:df3:edc0::/48
 AS,TH,2001:df3:ee00::/48
+AS,VN,2001:df3:ee40::/48
 OC,AU,2001:df3:ee80::/48
 OC,AU,2001:df3:ef00::/48
 AS,CN,2001:df3:ef80::/48
