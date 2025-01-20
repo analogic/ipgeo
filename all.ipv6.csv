@@ -6936,8 +6936,11 @@ AS,BD,2001:df4:ed40::/48
 AS,BD,2001:df4:ed80::/48
 AS,IN,2001:df4:edc0::/48
 AS,HK,2001:df4:ee00::/48
+AS,VN,2001:df4:ee40::/48
 OC,AU,2001:df4:ee80::/48
+AS,VN,2001:df4:eec0::/48
 AS,BD,2001:df4:ef00::/48
+AS,VN,2001:df4:ef40::/48
 AS,IN,2001:df4:ef80::/48
 AS,TH,2001:df4:f080::/48
 AS,ID,2001:df4:f100::/48
